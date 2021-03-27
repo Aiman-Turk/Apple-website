@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+nav{
+background-color: #323232;
+height: 44px;
+
+}
+.menu{
+    margin: 0 auto;
+    position: relative;
+    width: 1000px;
+    overflow: hidden;
+}
+.menu ul{
+    width: 100%;
+    margin: 0;
+    padding-right:0 ;
+    display: flex;
+    justify-content:space-between ;
+}
+.menu ul li{
+    list-style: none;
+}
+.menu ul li,
+.menu ul li a{
+    text-decoration: none;
+    color: #c1c1c4;
+    line-height: 44px;
+    transition: 0.5s;
+}
+.menu ul li .fa.fa-apple{
+    font-size: 20px;
+}
+.menu ul li a:hover{
+    color: white;
+}
+
+#covid-19{
+    text-decoration: none;
+    line-height: 45px;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+    
+
+}
+
+#covid-19 ,h5{
+    text-decoration: underline;
+    text-align: center;
+    background-color: #0071e3;
+    color: #fff;
+}
+h5:hover{
+    text-decoration: underline;
+}
+#shop-online{
+    background: #f5f5f7;
+    line-height: 44px;
+    color: #555557;
+    text-align: center;
+    font-size: 15px;
+    
+} 
+ span a{
+    color: #0071e3;
+    text-decoration: none;
+
+}
+span a:hover{
+    text-decoration: underline;
+} 
+.section{
+    text-align: center;
+    
+}
+#blast{
+color: #262626;
+font-size: 26px;
+line-height: 44px;
+}
+#iphone12{
+    font-size: 50px;
+    color: #262626;
+    font-weight: bold;
+}
+#from{
+    color: #9d9c9c;
+    line-height: 25px;
+    font-weight: 500px;
+    font-size: 18px;
+}
+#learn_more{
+    line-height: 50px;
+    font-size: 21px;
+}
+#buy{
+    line-height: 50px;
+    font-size: 21px;
+}
+.section2{
+    text-align: center;
+    background-color: black;
+}
+#leapyear{
+color: #262626;
+font-size: 26px;
+color: blanchedalmond;
+line-height: 44px;
+}
+#iphone12pro{
+    font-size: 50px;
+    color: #262626;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+#From{
+    color: #9d9c9c;
+    line-height: 25px;
+    font-weight: 500px;
+    font-size: 18px;
+}
+/* #learn_more2{
+    line-height: 50px;
+    font-size: 21px;
+}
+#buy2{
+    line-height: 50px;
+    font-size: 21px;
+} */
+.section3{
+    text-align: center;
+    background-color: white;
+}
+#Save{
+    color: #262626;
+    font-size: 26px;
+    line-height: 44px;
+}
+#ex{
+    color:black;
+    line-height: 25px;
+    font-weight: 500px;
+    font-size: 15px;
+}
+.section4{
+    text-align: center;
+    background-color: white;
+}
+#red{
+    color: tomato;
+    font: size 15px; ;
+}
+.section5{
+    text-align: center;
+    background-color: black;
+    padding-left: 20px;
+}
+#Watch{
+    font-size: 40px;
+    color: #262626;
+    font-weight: normal;
+    color: blanchedalmond;
+}
+#future{
+    color: #262626;
+    font-size: 26px;
+    line-height: 44px;
+    font-weight: normal;
+    }
+#colourful{
+    
+color: #262626;
+font-size: 26px;
+line-height: 44px;
+font-weight: normal;
+}
+#iPad{
+    font-size: 40px;
+    color: #262626;
+    font-weight: normal;
+    color: black;
+}
+.section6{
+    text-align: center;
+    background-color: black;
+    
+    
+}
+.section7{
+    text-align: center;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#service{
+    color: #262626;
+font-size: 20px;
+line-height: 40px;
+font-weight: normal;
+}
+.section8{
+    text-align: center;
+
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
